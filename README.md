@@ -1,2 +1,1 @@
-# whitepaper
-MRC Token Whitepaper
+# MRC Token Whitepaper
